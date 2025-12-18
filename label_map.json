@@ -1,0 +1,8 @@
+{
+  "idx_to_class": {
+    "0": "angina_disease",
+    "1": "cardio_disease_",
+    "2": "coronary_artery_disease",
+    "3": "hypotension_disease_"
+  }
+}
